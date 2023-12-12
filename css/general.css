@@ -51,3 +51,24 @@
     width: 800px;
     margin: 50px auto;
 }
+/* About content */
+.about-content {
+    display: flex;
+    justify-content: space-between;
+}
+.about-desc {
+    width: 45%;
+}
+.about-desc p {
+    color: #666;
+}
+.about-desc p {
+    color: #666;
+}
+.about-btn {
+    margin-top: 20px;
+    display: inline-block;
+}
+.about-skills {
+    width: 45%;
+}
